@@ -21,7 +21,7 @@ Problem 2: https://github.com/itzWyntr/ECE2112_PA4_BAAS_2ECEB/edit/main/README.m
 
 ## Programming Assignment
 
-Initially 
+Initially, 
 
 Import Pandas
 ``` python
