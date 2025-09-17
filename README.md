@@ -7,13 +7,13 @@
 
 ### Programming Assignment 4
 
-PA4: 
+PA4: https://github.com/itzWyntr/ECE2112_PA4_BAAS_2ECEB/blob/main/PA4.ipynb
 
 ## Table of Contents
 
 Objectives: https://github.com/itzWyntr/ECE2112_PA4_BAAS_2ECEB/edit/main/README.md#objectives
 
-Programming Assignment:
+Programming Assignment: https://github.com/itzWyntr/ECE2112_PA4_BAAS_2ECEB/blob/main/PA4.ipynb
 
 Problem 1: https://github.com/itzWyntr/ECE2112_PA4_BAAS_2ECEB/edit/main/README.md#problem-1-dataframe-creation
 
