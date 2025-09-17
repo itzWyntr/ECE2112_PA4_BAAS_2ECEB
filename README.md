@@ -92,7 +92,7 @@ plt.bar(genders, [df[df["Gender"] == g]["Ave"].mean() for g in genders])
 
 c. Average by Hometown
 Also same steps as the first
-```
+```python
 hometowns = df["Hometown"].unique()
 plt.bar(hometowns, [df[df["Hometown"] == h]["Ave"].mean() for h in hometowns])
 ```
